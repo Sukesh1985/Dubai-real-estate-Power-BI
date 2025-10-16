@@ -110,15 +110,15 @@ This dashboard provides comprehensive market intelligence for Dubai's real estat
 ## 📸 Screenshots
 
 ### Page 1: Overview Dashboard
-![Overview Dashboard](screenshots/page1-overview.png)
+<img width="1276" height="736" alt="page1-overview" src="https://github.com/user-attachments/assets/e7bb80e9-dcea-4b45-9690-ae0c582c281a" />
 *Market-level insights with KPIs, geographic distribution, and trend analysis*
 
 ### Page 2: Location Analysis
-![Location Analysis](screenshots/page2-location-analysis.png)
+<img width="1277" height="732" alt="page2-location-analysis" src="https://github.com/user-attachments/assets/fa43aab3-f204-4089-b016-4133db6a2e57" />
 *Deep dive into Palm Jumeirah showing premium location characteristics*
 
 ### Page 3: Property Details
-![Property Details](screenshots/page3-property-details.png)
+<img width="1285" height="738" alt="page3-property-details" src="https://github.com/user-attachments/assets/a9f3b44b-8c77-4b36-877b-7dd1feef8196" />
 *Comprehensive property listings with advanced filtering and scatter analysis*
 
 ---

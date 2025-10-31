@@ -236,7 +236,7 @@ This project demonstrates proficiency in:
 
 ## 📄 License
 
-This project is available for educational and portfolio purposes.
+This project is open source and available under the MIT License.
 
 ---
 
